@@ -17,7 +17,7 @@
         → 실제 스케줄러가 하는 일을 모방
         
 
-![image.png](Scheduling%201b8ae528fb5d80629c26f851de89413c/image.png)
+![image.png](Scheduling/image.png)
 
 ## Labels & Selectors
 
@@ -166,11 +166,11 @@ spec:
 
 ## Resource Requirements and Limits
 
-![image.png](Scheduling%201b8ae528fb5d80629c26f851de89413c/image%201.png)
+![image.png](Scheduling/image%201.png)
 
-![image.png](Scheduling%201b8ae528fb5d80629c26f851de89413c/image%202.png)
+![image.png](Scheduling/image%202.png)
 
-![image.png](Scheduling%201b8ae528fb5d80629c26f851de89413c/image%203.png)
+![image.png](Scheduling/image%203.png)
 
 ### Resource Requests
 
@@ -182,7 +182,7 @@ spec:
 - 컨테이너가 사용할 수 있는 최대 리소스 양
     - 초과하면 컨테이너는 제한(CPU) 또는 종료(메모리)
 
-![image.png](Scheduling%201b8ae528fb5d80629c26f851de89413c/image%204.png)
+![image.png](Scheduling/image%204.png)
 
 ### Resource Quotoas
 
