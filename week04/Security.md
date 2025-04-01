@@ -124,37 +124,3 @@ openssl x509 -req -in admin.csr -CA ca.crt -CAkey ca.key -out admin.crt
 ![image.png](Security/image%209.png)
 
 → 동일한 내용, `문제 진단`
-
-## Persistent Key/Value Store
-
-## KubeConfig
-
-## API Groups
-
-## Authorization
-
-## Role Based Access Controls
-
-## Cluster Roles and Role Bindings
-
-## Service Accounts
-
-## Image Security
-
-## Service Accounts
-
-## Pre-requisite - Security in Docker
-
-## Security Contexts
-
-## Network Policy
-
-## Developing network policies
-
-## Kubectx and Kubens – Command line Utilities
-
-## Custorm Resource Definition (CRD)
-
-## Custom Controllers
-
-## Operator Framework
