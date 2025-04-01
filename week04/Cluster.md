@@ -117,7 +117,7 @@ ETCDCTL_API=3 etcdctl snapshot restore snapshot.db --data-dir=/var/lib/etcd-back
 
 ### 끔찍…
 
-![image.png](Cluster/image.png)
+![image.png](Cluster Maintenance/image.png)
 
 ### `kubectl config`
 
